@@ -1,2 +1,1 @@
-#!/bin/bash
-echo 'ls\n' >
+echo -e '#!/bin/bash\nls' >
