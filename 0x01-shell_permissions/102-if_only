@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown guillaume:user_betty hello
+sudo chown betty:user_guillaume hello
